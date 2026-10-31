@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.4.1
+- **Última versión:** v2.4.2
 - **Fecha:** 2026-10-30
-- **Notas de lanzamiento:** Correccion y blindaje de conexion TTS ai33.pro con SSL resiliente y User-Agent
+- **Notas de lanzamiento:** Deteccion universal de carpetas video e imagen, soporte WEBP y auto-resolucion de FFmpeg
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.
