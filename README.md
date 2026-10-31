@@ -4,7 +4,7 @@ Repositorio oficial de distribución de parches y versiones para clientes.
 
 - **Última versión:** v2.4.0
 - **Fecha:** 2026-10-30
-- **Notas de lanzamiento:** Lanzamiento oficial v2.4.0 con soporte multicanal y auto-actualizaciones
+- **Notas de lanzamiento:** Lanzamiento v2.4.0 con soporte multicanal y gestor de proyectos
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.
