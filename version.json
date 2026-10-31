@@ -1,9 +1,9 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "fecha": "2026-10-30",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Lanzamiento v2.4.0 con soporte multicanal y gestor de proyectos"
+  "novedades": "Correccion y blindaje de conexion TTS ai33.pro con SSL resiliente y User-Agent"
 }
