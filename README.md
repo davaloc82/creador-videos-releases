@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.4.4
-- **Fecha:** 2026-10-30
-- **Notas de lanzamiento:** Selector de estilos de subtitulos por nicho persistente y correccion de guardado de API Key ai33
+- **Última versión:** v2.5.1
+- **Fecha:** 2026-11-11
+- **Notas de lanzamiento:** Motor Motion Graphics v5 multi-perspectiva 3D/planta/corte, nuevo estudio de renderizado por lote para nichos replicados, correcciones de fuentes/dependencias y proteccion de configuraciones.
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.
