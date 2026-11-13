@@ -1,9 +1,9 @@
 {
-  "version": "2.5.1",
-  "fecha": "2026-11-11",
+  "version": "2.5.2",
+  "fecha": "2026-11-13",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Motor Motion Graphics v5 multi-perspectiva 3D/planta/corte, nuevo estudio de renderizado por lote para nichos replicados, footer dinamico NEXOR v2.5.1 y correcciones de dependencias."
+  "novedades": "Parche de compatibilidad de interprete Python y panel.bat"
 }

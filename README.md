@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.5.1
-- **Fecha:** 2026-11-11
-- **Notas de lanzamiento:** Motor Motion Graphics v5 multi-perspectiva 3D/planta/corte, nuevo estudio de renderizado por lote para nichos replicados, footer dinamico NEXOR v2.5.1 y correcciones de dependencias.
+- **Última versión:** v2.5.2
+- **Fecha:** 2026-11-13
+- **Notas de lanzamiento:** Parche de compatibilidad de interprete Python y panel.bat
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.
