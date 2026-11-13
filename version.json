@@ -1,9 +1,9 @@
 {
-  "version": "2.5.4",
+  "version": "2.5.5",
   "fecha": "2026-11-13",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Soporte para carpetas anidadas y canales en PROYECTOS_VIDEO"
+  "novedades": "Corregir sintaxis batch en panel.bat"
 }
