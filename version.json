@@ -1,9 +1,9 @@
 {
-  "version": "2.5.8",
+  "version": "2.5.9",
   "fecha": "2026-11-13",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Carga directa de canales e IMPACTO MENTAL en menu lateral"
+  "novedades": "Canales replicados unicamente en menu Replicar Nichos"
 }

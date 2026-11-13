@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.5.8
+- **Última versión:** v2.5.9
 - **Fecha:** 2026-11-13
-- **Notas de lanzamiento:** Carga directa de canales e IMPACTO MENTAL en menu lateral
+- **Notas de lanzamiento:** Canales replicados unicamente en menu Replicar Nichos
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.
