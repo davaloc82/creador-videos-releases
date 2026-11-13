@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.6.0
+- **Última versión:** v2.6.1
 - **Fecha:** 2026-11-13
-- **Notas de lanzamiento:** Actualizacion en 1 Clic integrada y ejecucion silenciosa de cortes sin ventanas negras
+- **Notas de lanzamiento:** Auto-actualizacion al arrancar panel.bat y pre-calentamiento silencioso de Whisper IA
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.

@@ -1,9 +1,9 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "fecha": "2026-11-13",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Actualizacion en 1 Clic integrada y ejecucion silenciosa de cortes sin ventanas negras"
+  "novedades": "Auto-actualizacion al arrancar panel.bat y pre-calentamiento silencioso de Whisper IA"
 }
