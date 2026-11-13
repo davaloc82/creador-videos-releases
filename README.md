@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.5.7
+- **Última versión:** v2.5.8
 - **Fecha:** 2026-11-13
-- **Notas de lanzamiento:** Mostrar canales y proyectos de usuario directamente en el menu lateral
+- **Notas de lanzamiento:** Carga directa de canales e IMPACTO MENTAL en menu lateral
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.

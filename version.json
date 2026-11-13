@@ -1,9 +1,9 @@
 {
-  "version": "2.5.7",
+  "version": "2.5.8",
   "fecha": "2026-11-13",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Mostrar canales y proyectos de usuario directamente en el menu lateral"
+  "novedades": "Carga directa de canales e IMPACTO MENTAL en menu lateral"
 }
