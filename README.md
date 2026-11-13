@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.5.2
+- **Última versión:** v2.5.3
 - **Fecha:** 2026-11-13
-- **Notas de lanzamiento:** Parche de compatibilidad de interprete Python y panel.bat
+- **Notas de lanzamiento:** Parche critico: Correccion de carga de proyectos y menu de licencias
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.
