@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.5.5
+- **Última versión:** v2.5.6
 - **Fecha:** 2026-11-13
-- **Notas de lanzamiento:** Corregir sintaxis batch en panel.bat
+- **Notas de lanzamiento:** Deteccion multi-ruta de PROYECTOS_VIDEO, canales anidados y panel sin cache
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.
