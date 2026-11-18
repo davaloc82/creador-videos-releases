@@ -4,7 +4,7 @@ Repositorio oficial de distribución de parches y versiones para clientes.
 
 - **Última versión:** v2.8.1
 - **Fecha:** 2026-11-18
-- **Notas de lanzamiento:** Aislamiento de carpetas FlowBatch, modo silencioso FFmpeg y escenas resilientes
+- **Notas de lanzamiento:** Auto-actualizador en 1 clic y silencioso al iniciar, correccion FFmpeg y FlowBatch
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.

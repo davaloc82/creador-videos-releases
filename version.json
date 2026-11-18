@@ -5,5 +5,5 @@
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Aislamiento de carpetas FlowBatch, modo silencioso FFmpeg y escenas resilientes"
+  "novedades": "Auto-actualizador en 1 clic y silencioso al iniciar, correccion FFmpeg y FlowBatch"
 }
