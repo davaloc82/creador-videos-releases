@@ -1,9 +1,9 @@
 {
-  "version": "2.7.0",
+  "version": "2.8.1",
   "fecha": "2026-11-18",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Generador de prompts Gemini IA (imagen.txt y movimiento.txt) integrado, correccion de audio TTS y optimizaciones del motor."
+  "novedades": "Aislamiento de carpetas FlowBatch, modo silencioso FFmpeg y escenas resilientes"
 }
