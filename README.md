@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.8.1
+- **Última versión:** v2.6.2
 - **Fecha:** 2026-11-18
-- **Notas de lanzamiento:** Fix argumento por defecto en aplicar_actualizacion
+- **Notas de lanzamiento:** Modo silencioso FFmpeg y escenas resilientes
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.
