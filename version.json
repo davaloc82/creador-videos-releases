@@ -1,9 +1,9 @@
 {
-  "version": "2.6.5",
+  "version": "2.6.6",
   "fecha": "2026-11-18",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Auto-reinicio tras actualizar y eliminación total de bloqueos de licencia"
+  "novedades": "Cierre forzado directo de pythonw y auto-reinicio"
 }
