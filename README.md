@@ -2,9 +2,9 @@
 
 Repositorio oficial de distribución de parches y versiones para clientes.
 
-- **Última versión:** v2.8.0
+- **Última versión:** v2.7.0
 - **Fecha:** 2026-11-18
-- **Notas de lanzamiento:** Lienzo Continuo 2D/3D con cámara GSAP sin costo recurrente, Replicador y Parafraseador inteligente de enlaces virales en generador de guiones, corrección del sub-nicho automotriz y plantillas continuas (Cockpit vehicular y Mundo Isométrico 3D).
+- **Notas de lanzamiento:** Generador de prompts Gemini IA (imagen.txt y movimiento.txt) integrado, correccion de audio TTS y optimizaciones del motor.
 
 ## Archivos de distribución:
 - `version.json`: Manifiesto de versión para detección automática.
