@@ -1,9 +1,9 @@
 {
-  "version": "2.6.1",
-  "fecha": "2026-11-13",
+  "version": "2.8.0",
+  "fecha": "2026-11-18",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Auto-actualizacion al arrancar panel.bat y pre-calentamiento silencioso de Whisper IA"
+  "novedades": "Lienzo Continuo 2D/3D con cámara GSAP sin costo recurrente, Replicador y Parafraseador inteligente de enlaces virales en generador de guiones, corrección del sub-nicho automotriz y plantillas continuas (Cockpit vehicular y Mundo Isométrico 3D)."
 }
