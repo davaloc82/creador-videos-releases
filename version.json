@@ -1,9 +1,9 @@
 {
-  "version": "2.6.7",
+  "version": "2.7.0",
   "fecha": "2026-11-18",
   "canal": "produccion",
   "repositorio": "davaloc82/creador-videos-releases",
   "url_servidor_versiones": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/version.json",
   "download_url": "https://raw.githubusercontent.com/davaloc82/creador-videos-releases/main/update_patch.zip",
-  "novedades": "Apagado elegante por protocolo HTTP y control de instancia única"
+  "novedades": "Prompts Gemini IA y FlowBatch Pro para nichos replicados con personajes recurrentes o antologias, reinicio desacoplado silencioso y reconexion automatica"
 }
